@@ -7,4 +7,4 @@ You should be able to run the script on any Linux server and it should give you 
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
-Stretch goal: To optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+### Stretch goal: To optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
